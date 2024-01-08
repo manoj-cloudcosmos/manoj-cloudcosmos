@@ -1,9 +1,5 @@
-Hi, I’m Manoj Bharadwaj. I’m the founder of CloudCosmos (https://cloudcosmos.tech).
+Hi, I’m Manoj Bharadwaj. I’m the founder of CloudCosmos (https://cloudcosmos.tech). I am CTO at AscentHR (https://ascent-hr.com), one of the top payroll and HR service providers based in India and operating in India and neighboring geographies.
 
-With teams in USA, Brazil and India, we are a technology services company specializing in helping our clients build products.
-
-We are currently building also building
-* Textalytics (https://textalytics.tech) 
-* Shukra (https://shukra.ai)
+With teams in the USA, Brazil, and India, we at CloudCosmos specialize in bespoke software application development as we assist our clients in build products with WOW! experiences.
 
 info@cloudcosmos.tech
